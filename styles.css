@@ -1,0 +1,35 @@
+body {
+  background-color: $blue;
+}
+
+h1 { 
+  font-family: 'Coming Soon', cursive; 
+}
+
+h2 { 
+  font-family: 'Coming Soon', cursive; 
+}
+
+td {
+  font-family: 'Coming Soon', cursive;
+}
+
+Flavors {
+  font-family: 'Coming Soon', cursive;
+}
+
+h1{
+  background: linear-gradient(to right, Gray, SkyBlue);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+h2{
+  background: linear-gradient(to right, #F4C87C, #F47C7C);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+body{
+  background: linear-gradient(to right, #FF6F61, #F8AF5C, #F8EE5C, #5CF871, #5C5CF8, #C45CF8)
+}
